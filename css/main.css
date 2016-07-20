@@ -1,0 +1,21 @@
+div{
+	height: 50px;
+	width: 50px;
+	background-color: #49FFFA;
+	border: 1px solid black;
+	margin: 3px;
+	}
+
+.cajagrande{
+	height: 100px;
+	width: 230px;
+	background-color: #36E8B1;
+}
+.floating{
+	float: left;
+}
+
+.clearfix{
+	overflow: auto;
+	zoom: 1;
+}
